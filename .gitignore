@@ -53,3 +53,4 @@ dkms.conf
 hw/G0-DevBoard/History/G0-DevBoard.~(1).PrjPcb.Zip
 hw/G0-DevBoard/__Previews/P01_Cover_Sheet.SchDocPreview
 *.SchDocPreview
+*.Zip
