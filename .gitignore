@@ -55,3 +55,7 @@ hw/G0-DevBoard/__Previews/P01_Cover_Sheet.SchDocPreview
 *.SchDocPreview
 *.Zip
 hw/G0-DevBoard/__Previews/P100_G0-DevBoard.PcbDocPreview
+hw/G0-DevBoard/__Previews/P100_G0-DevBoard.PcbDocPreview
+*.LOG
+*.LOG
+hw/G0-DevBoard/Project Outputs for Free Documents/2022-08-01.rar

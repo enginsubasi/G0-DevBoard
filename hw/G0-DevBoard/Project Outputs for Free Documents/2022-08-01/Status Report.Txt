@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [P100_G0-DevBoard.PcbDoc]
+   Generated File[P100_G0-DevBoard.TXT]
+   Generated File[P100_G0-DevBoard.LDP]
+   Generated File[P100_G0-DevBoard.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 00:23:06 On 1.08.2022
